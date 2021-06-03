@@ -2,7 +2,7 @@ Projects:
   {
     basic: "iris-contrib/basic-template",
     mvc: "iris-contrib/mvc-template",
-    svelte3: "gitlab.com/lavren1974/iris-contrib/svelte-template",
+    svelte3: "/lavren1974/iris-tmpl/svelte-template",
     react-typescript: "iris-contrib/react-typescript-template",
     go-admin: "iris-contrib/go-admin-template",
   }
