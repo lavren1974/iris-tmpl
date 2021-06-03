@@ -1,0 +1,8 @@
+Projects:
+  {
+    basic: "iris-contrib/basic-template",
+    mvc: "iris-contrib/mvc-template",
+    svelte3: "gitlab.com/lavren1974/iris-contrib/svelte-template",
+    react-typescript: "iris-contrib/react-typescript-template",
+    go-admin: "iris-contrib/go-admin-template",
+  }
